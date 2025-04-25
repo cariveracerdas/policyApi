@@ -14,14 +14,14 @@ Proyecto de Cristopher Rivera
    - Abre una terminal y ejecuta el siguiente comando:
 
      ```bash
-     git clone https://github.com/tu_usuario/tu_repositorio.git
+     git clone https://github.com/cariveracerdas/policyApi.git
      ```
 
 2. **Acceder a la carpeta del proyecto**:
    - Navega hasta la carpeta donde clonaste el repositorio:
 
      ```bash
-     cd tu_repositorio
+     cd policyApi
      ```
 
 3. **Restaurar las dependencias**:
@@ -35,6 +35,6 @@ Proyecto de Cristopher Rivera
    - Para iniciar la aplicación, ejecuta el siguiente comando:
 
      ```bash
-     dotnet run
+     dotnet run --launch-profile "https"
      ```
 
